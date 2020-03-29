@@ -1,6 +1,6 @@
 ---
 title: "Difference Bloom Filter (IEEE ICC 2017)"
-excerpt: "A compact hash-based graph data structure for fast multiple sets membership query<br/><img src='/images/DBF.jpg'>"
+excerpt: "Use a single Bloom Filter like data structure to support approxiamate multiple sets membership query<br/>"
 collection: portfolio
 ---
 
