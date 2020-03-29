@@ -8,4 +8,6 @@ tags:
   - category2
 ---
 
-This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
+<img src="https://yangdsh.github.io/images/DSC00308x.jpg" width = "1000" alt="The night of Thanksgiving" align=center />
+
+<img src="https://yangdsh.github.io/images/DSC00322x.jpg" width = "1000" alt="The night of Thanksgiving" align=center />
